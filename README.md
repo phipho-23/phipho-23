@@ -20,8 +20,8 @@
 
 <h2>Certifications</h2>
 
-- [Comptia Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google Cybersecurity Specialization](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Comptia Security+ Candidate ID: COMP001022754554 Verification Code: ET83PWBSWFR112L2](https://www.certmetrics.com/comptia/public/verification.aspx/)
+- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/EMUA33E6FV8B)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
