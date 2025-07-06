@@ -52,8 +52,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.coursera.org/account/accomplishments/specialization/EMUA33E6FV8B" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
-
+</div>
+<a href="https://www.coursera.org/account/accomplishments/specialization/EMUA33E6FV8B" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </div>
 
 ## Projects
