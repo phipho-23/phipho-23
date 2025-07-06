@@ -54,8 +54,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </a>
 </div>
 <a href="https://www.coursera.org/account/accomplishments/specialization/EMUA33E6FV8B" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</div>
+<a href="https://chat.openai.com/share/file-WTa7BEyj3dJGUKBaRus9SD" target="_blank">
+  <img src="https://img.shields.io/badge/Qualys%20Vulnerability%20Management-ED2B29?style=for-the-badge&logo=qualys&logoColor=white" />
+</a>
 
 ## Projects
 - Detection Lab
